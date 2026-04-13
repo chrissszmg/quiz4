@@ -54,7 +54,7 @@ b) Con referencia: funcion(variable). Con puntero: funcion(&variable) y dentro s
 
 
 
-7. ¿Que imprime el siguiente codigo?
+6. ¿Que imprime el siguiente codigo?
  void intercambiar ( int& a , int& b ) {
 2 int temp = a ;
 3 a = b ;
