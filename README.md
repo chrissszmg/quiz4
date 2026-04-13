@@ -10,7 +10,7 @@ Responde en el README. Cada pregunta vale 0.67 puntos.
 6 modificar ( num ) ;
 7 cout << num << endl ;
 8 }
-b) 50
+b) 50 
 
 2. ¿Que valor imprime el siguiente c´odigo?
 1 void modificar ( int& x ) {
