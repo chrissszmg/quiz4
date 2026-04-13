@@ -10,6 +10,7 @@ Responde en el README. Cada pregunta vale 0.67 puntos.
 6 modificar ( num ) ;
 7 cout << num << endl ;
 8 }
+
 b) 50 
 
 2. ¿Que valor imprime el siguiente c´odigo?
@@ -22,7 +23,7 @@ b) 50
 7 cout << num << endl ;
 8 }
 
-b) 50.
+b) 100.
 
 
 3. ¿Que valor imprime el siguiente c´odigo?
@@ -34,7 +35,7 @@ b) 50.
 6 modificar (& num ) ;
 7 cout << num << endl ;
 8 }
-b) 50.
+b) 100.
 
 
 
@@ -48,12 +49,13 @@ b) El valor almacenado en valor
 
 
 5. ¿Cual es la diferencia entre llamar una funcion con referencia vs. con puntero?
-   
-c) Con referencia: funcion(&variable). Con puntero: funcion(variable)
+
+b) Con referencia: funcion(variable). Con puntero: funcion(&variable) y dentro se usa *parametro
+
 
 
 7. ¿Que imprime el siguiente codigo?
-1 void intercambiar ( int& a , int& b ) {
+ void intercambiar ( int& a , int& b ) {
 2 int temp = a ;
 3 a = b ;
 4 b = temp ;
