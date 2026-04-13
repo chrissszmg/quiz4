@@ -48,10 +48,11 @@ b) El valor almacenado en valor
 
 
 5. ¿Cual es la diferencia entre llamar una funcion con referencia vs. con puntero?
+   
 c) Con referencia: funcion(&variable). Con puntero: funcion(variable)
 
 
-6. ¿Que imprime el siguiente codigo?
+7. ¿Que imprime el siguiente codigo?
 1 void intercambiar ( int& a , int& b ) {
 2 int temp = a ;
 3 a = b ;
